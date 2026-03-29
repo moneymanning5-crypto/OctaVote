@@ -1,2 +1,2 @@
 # OctaVote
-The Code Repository for OctaVote
+Coding is coming soon.
